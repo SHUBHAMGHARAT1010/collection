@@ -5,4 +5,4 @@ we got the user data
 adding tags
 
 
-createt an avatar for the user
+create an avatar for the user
