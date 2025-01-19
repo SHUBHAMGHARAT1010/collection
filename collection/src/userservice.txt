@@ -1,2 +1,2 @@
 usr data 
-get the user inout
+get the user input
