@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Soft
+ *
+ */
+module collection {
+}
